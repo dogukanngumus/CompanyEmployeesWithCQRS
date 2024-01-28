@@ -1,0 +1,11 @@
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/bin/Debug/net8.0/Entities.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/obj/Debug/net8.0/Entities.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Entities/obj/Debug/net8.0/ref/Entities.dll

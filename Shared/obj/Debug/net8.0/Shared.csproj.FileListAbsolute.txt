@@ -1,0 +1,11 @@
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/bin/Debug/net8.0/Shared.deps.json
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/bin/Debug/net8.0/Shared.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/bin/Debug/net8.0/Shared.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/obj/Debug/net8.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/obj/Debug/net8.0/Shared.AssemblyInfoInputs.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/obj/Debug/net8.0/Shared.AssemblyInfo.cs
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/obj/Debug/net8.0/Shared.csproj.CoreCompileInputs.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/obj/Debug/net8.0/Shared.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/obj/Debug/net8.0/refint/Shared.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/obj/Debug/net8.0/Shared.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Shared/obj/Debug/net8.0/ref/Shared.dll

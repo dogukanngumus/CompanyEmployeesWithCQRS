@@ -1,0 +1,17 @@
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/bin/Debug/net8.0/Repository.deps.json
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/bin/Debug/net8.0/Repository.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/bin/Debug/net8.0/Repository.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/bin/Debug/net8.0/Contracts.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/bin/Debug/net8.0/Entities.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/bin/Debug/net8.0/Contracts.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/bin/Debug/net8.0/Entities.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/Repository.csproj.AssemblyReference.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/Repository.AssemblyInfoInputs.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/Repository.AssemblyInfo.cs
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/Repository.csproj.CoreCompileInputs.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/Repository.csproj.CopyComplete
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/Repository.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/refint/Repository.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/Repository.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Repository/obj/Debug/net8.0/ref/Repository.dll

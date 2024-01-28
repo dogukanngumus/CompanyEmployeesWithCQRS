@@ -1,0 +1,17 @@
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/bin/Debug/net8.0/LoggerService.deps.json
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/bin/Debug/net8.0/LoggerService.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/bin/Debug/net8.0/LoggerService.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/bin/Debug/net8.0/Contracts.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/bin/Debug/net8.0/Entities.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/bin/Debug/net8.0/Contracts.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/bin/Debug/net8.0/Entities.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/LoggerService.csproj.AssemblyReference.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/LoggerService.AssemblyInfoInputs.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/LoggerService.AssemblyInfo.cs
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/LoggerService.csproj.CopyComplete
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/LoggerService.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/refint/LoggerService.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/LoggerService.pdb
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/LoggerService/obj/Debug/net8.0/ref/LoggerService.dll
