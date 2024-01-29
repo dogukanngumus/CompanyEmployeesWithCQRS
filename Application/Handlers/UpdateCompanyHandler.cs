@@ -2,6 +2,7 @@
 using Contracts;
 using Entities.Exceptions;
 using MediatR;
+using Application.Commands;
 
 namespace Application;
 

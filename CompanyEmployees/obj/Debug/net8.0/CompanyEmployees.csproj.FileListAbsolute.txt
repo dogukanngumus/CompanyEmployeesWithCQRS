@@ -151,3 +151,7 @@
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees/obj/Debug/net8.0/CompanyEmployees.pdb
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees/obj/Debug/net8.0/CompanyEmployees.genruntimeconfig.cache
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees/obj/Debug/net8.0/ref/CompanyEmployees.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees/obj/Debug/net8.0/CompanyEmployees.sourcelink.json
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees/bin/Debug/net8.0/FluentValidation.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll

@@ -1,4 +1,5 @@
 ﻿using Contracts;
+using FluentValidation;
 using LoggerService;
 using Microsoft.EntityFrameworkCore;
 using Repository;
@@ -32,6 +33,9 @@ public static class ServiceExtensions
 
 	public static void ConfigureAutoMapper(this IServiceCollection services)
 	=> services.AddAutoMapper(typeof(Program));
+
+	public static void ConfigureFluentValidation(this IServiceCollection services)
+	=> services.AddValidatorsFromAssembly(typeof(Application.AssemblyReference).Assembly);
 
 	public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration configuration) =>
 		services.AddDbContext<RepositoryContext>(opts =>

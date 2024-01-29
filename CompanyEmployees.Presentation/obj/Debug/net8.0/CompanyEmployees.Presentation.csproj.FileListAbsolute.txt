@@ -19,3 +19,4 @@
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees.Presentation/obj/Debug/net8.0/refint/CompanyEmployees.Presentation.dll
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees.Presentation/obj/Debug/net8.0/CompanyEmployees.Presentation.pdb
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees.Presentation/obj/Debug/net8.0/ref/CompanyEmployees.Presentation.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/CompanyEmployees.Presentation/obj/Debug/net8.0/CompanyEmployees.Presentation.sourcelink.json

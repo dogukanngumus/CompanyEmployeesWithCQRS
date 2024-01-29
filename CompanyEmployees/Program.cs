@@ -1,5 +1,7 @@
+using Application.Behaviours;
 using CompanyEmployees.Extensions;
 using Contracts;
+using MediatR;
 using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.Mvc;
 using NLog;
@@ -15,6 +17,8 @@ builder.Services.ConfigureRepositoryManager();
 builder.Services.ConfigureAutoMapper();
 builder.Services.ConfigureMediatR();
 builder.Services.ConfigureSqlContext(builder.Configuration);
+builder.Services.ConfigureFluentValidation();
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>),typeof(ValidationBehaviour<,>));
 
 builder.Services.Configure<ApiBehaviorOptions>(options =>
 {

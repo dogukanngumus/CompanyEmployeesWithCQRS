@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "B9niGJCDrwfEbd3T+XhaIt/9S9P2z2XBvInFHFJRAEhWtRSCtKmv981SLyDRlNHsrNCK/voXLHbSrx4xL0NVXw==",
+  "dgSpecHash": "xxm7Pzr82BJ5G1hXxOfUTAn+gFBGOnb1y0+0EULC4XpLMhfsYNFFvobIKXFEKu9Sc8VbzPNJiq/GeQ2hB1SAfA==",
   "success": true,
   "projectFilePath": "/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/dogukngumus/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/dogukngumus/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/dogukngumus/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/dogukngumus/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/dogukngumus/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/dogukngumus/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/dogukngumus/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/dogukngumus/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

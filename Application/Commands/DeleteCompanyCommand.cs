@@ -1,5 +1,5 @@
 ﻿using MediatR;
 
-namespace Application;
+namespace Application.Commands;
 
 public record DeleteCompanyCommand(Guid Id, bool TrackChanges) : IRequest;

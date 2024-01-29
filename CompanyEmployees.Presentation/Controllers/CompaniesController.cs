@@ -3,6 +3,7 @@ using Application.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Shared.DataTransferObjects;
+using Application.Commands;
 
 namespace CompanyEmployees.Presentation.Controllers;
 
@@ -11,9 +12,11 @@ namespace CompanyEmployees.Presentation.Controllers;
 public class CompaniesController : ControllerBase
 {
     private readonly ISender _sender;
-    public CompaniesController(ISender sender)
+    private readonly IPublisher _publisher;
+    public CompaniesController(ISender sender, IPublisher publisher)
     {
         _sender = sender;
+        _publisher = publisher;
     }
 
     [HttpGet]
@@ -56,7 +59,7 @@ public class CompaniesController : ControllerBase
     [HttpDelete("{id:guid}")]
     public async Task<IActionResult> DeleteCompany(Guid id)
     {
-        await _sender.Send(new DeleteCompanyCommand(id, TrackChanges: false));
+        await _publisher.Publish(new CompanyDeletedNotification(id, TrackChanges: false));
         return NoContent();
     }
 }

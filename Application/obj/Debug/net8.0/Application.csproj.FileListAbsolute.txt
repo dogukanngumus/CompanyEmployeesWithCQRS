@@ -17,3 +17,4 @@
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Application/obj/Debug/net8.0/refint/Application.dll
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Application/obj/Debug/net8.0/Application.pdb
 /Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/dogukngumus/Projects/CompanyEmployeesWithCQRS/Application/obj/Debug/net8.0/Application.sourcelink.json
